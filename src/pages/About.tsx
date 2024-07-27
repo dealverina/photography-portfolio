@@ -29,13 +29,10 @@ export const About = () => {
           >
             <h1 className="h1">About me</h1>
             <p className="mb-12 max-w-sm">
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore,
-              omnis ex!{" "}
-              <b>
-                Aperiam placeat, ullam molestiae deserunt perspiciatis
-                quibusdam.
-              </b>{" "}
-              Accusamus tenetur quam unde.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit. Earum
+              amet quaerat soluta, <b>eligendi tempore facere harum,</b> at
+              pariatur voluptate distinctio officiis blanditiis! Minus cum
+              quibusdam voluptatibus totam maiores odit commodi?
               <br />
               <br />
               Lorem ipsum dolor sit amet consectetur adipisicing elit. Aut
@@ -44,7 +41,7 @@ export const About = () => {
               repellat.
             </p>
             <Link to={"/portfolio"} className="btn">
-              View my work
+              View my works
             </Link>
           </motion.div>
         </div>
