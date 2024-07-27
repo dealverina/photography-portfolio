@@ -29,7 +29,7 @@ export const About = () => {
               iste eveniet maxime, aliquam laboriosam nemo quod rem laborum
               repellat.
             </p>
-            <Link to={"/portofolio"} className="btn">View my work</Link>
+            <Link to={"/portfolio"} className="btn">View my work</Link>
           </div>
         </div>
       </div>
